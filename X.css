@@ -97,4 +97,31 @@
          border-right-color: #55585c;
 
 }
+.bag{
+    margin-left: 76px;
+     width: 432px;
+      height: 54px;
+       font-size: 20px;
+        background: transparent;
+        border-radius: 4px;
+}
+.bag:hover{
+    outline:none;
+    border-color: #0866ff;
+    box-shadow: none;
+}
+.instead{
+    color: #1d9bf0;
+    margin-left: 393px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.instead:hover{
+    text-decoration: underline;
+}
+.blue:hover{
+    text-decoration: underline;
+}
+
+
 
